@@ -1,0 +1,25 @@
+Comporte-se como um escritor de artigos tech front-end e escreva o Artigo atendendo as regras abaixo:
+
+Assunto: Linguagem Java
+
+Título: O Poder da Portabilidade: Como o Java Facilita a Criação de Aplicações que Funcionam em Diferentes Plataformas
+
+Capa: PowerPoint + Lexica.art
+
+{BLOCOS}
+[TÍTULOS DOS BLOCOS
+- Java: Uma Janela para Todas as Plataformas
+- Alcance Universal: Java e sua Adaptabilidade Multiplataforma
+- Construindo Sem Fronteiras: Desenvolvimento de Aplicativos Java Independentes de Plataforma
+
+{REGRAS}
+> Os blocos devem ter no máximo 5 linhas, nem mais e nem menos
+> Me explique de maneira informal para pessoas leigas no assunto 
+> Os blocos que serão criados estão abaixo e devem ter apenas 5 linhas cada bloco:
+- Java: Uma Janela para Todas as Plataformas
+- Alcance Universal: Java e sua Adaptabilidade Multiplataforma
+- Construindo Sem Fronteiras: Desenvolvimento de Aplicativos Java Independentes de Plataforma
+> Mantém no final do artigo:
+- Ilustrações de capa: gerada pela lexica.art
+- Conteúdo gerado por: ChatGPT e revisões humanas
+> Coloque 3 hashtags no final do artigo apenas, que façam sentido com contexto geral do assunto 
